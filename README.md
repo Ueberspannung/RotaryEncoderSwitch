@@ -1,19 +1,19 @@
 # RotaryEncoderSwitch
 
-#####Table of contents
-[description](#description)
-[issues](#issues)
-[HW considerations](#HW-considerations)
-  [AVR](#AVR)
-  [SAM](#SAM-D21)
-[interface](#Interface)
-  [button_init   ](#button_init   )   
-  [button_process](#button_process)
-  [button_setLong](#button_setLong)
-  [button_turns  ](#button_turns  )
-  [button_down   ](#button_down   )
-  [button_pressed](#button_pressed)
-  [button_held   ](#button_held   )
+##### Table of contents
+[description](#description)  
+[issues](#issues)  
+[HW considerations](#HW-considerations)  
+  [AVR](#AVR)  
+  [SAM](#SAM-D21)  
+[interface](#Interface)  
+  [button_init   ](#button_init   )     
+  [button_process](#button_process)  
+  [button_setLong](#button_setLong)  
+  [button_turns  ](#button_turns  )  
+  [button_down   ](#button_down   )  
+  [button_pressed](#button_pressed)  
+  [button_held   ](#button_held   )  
 
 
 ## description
